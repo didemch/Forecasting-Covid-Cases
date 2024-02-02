@@ -1,2 +1,2 @@
 # forecasting-covid-cases
-Building a few linear models to predict 2-week ahead COVID-19 case counts.
+I will explore several linear models to forecast COVID-19 cases. The objective is to predict case counts two weeks ahead for all five health authorities.
